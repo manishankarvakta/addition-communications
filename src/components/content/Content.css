@@ -1,0 +1,14 @@
+.mainContent{
+    overflow: hidden;
+    
+} 
+
+.mainContent {
+    /* background: url('../../circle.svg') no-repeat right center; */
+    background-size: contain;
+    height: 100vh;
+    background-attachment: fixed;
+    background-position-x: -25%;
+    background-position-y: -25%;
+
+}
