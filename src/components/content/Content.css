@@ -1,14 +1,15 @@
 .mainContent{
-    overflow: hidden;
-    
+    /* overflow: hidden; */
+    margin-top: 105px;
+    min-height: 80vh;
 } 
 
 .mainContent {
     /* background: url('../../circle.svg') no-repeat right center; */
-    background-size: contain;
+    /* background-size: contain;
     height: 100vh;
     background-attachment: fixed;
     background-position-x: -25%;
-    background-position-y: -25%;
+    background-position-y: -25%; */
 
 }
