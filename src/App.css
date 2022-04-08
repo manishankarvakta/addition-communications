@@ -13,6 +13,10 @@
   }
 }
 
+.content{
+  margin-top: 150px;
+  margin-bottom: 100px;
+}
 
 .nav-link {
   color: #0aa7a0;
